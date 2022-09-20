@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blindtest-spotify/static/css/main.d56e516d.css",
+    "main.js": "/blindtest-spotify/static/js/main.9b4069b9.js",
+    "static/media/logo.svg": "/blindtest-spotify/static/media/logo.06e35fe60a373d418b12ee16244ed292.svg",
+    "static/media/loading.svg": "/blindtest-spotify/static/media/loading.060cd5d99fabd5830d7426c6b5f3b342.svg",
+    "index.html": "/blindtest-spotify/index.html",
+    "main.d56e516d.css.map": "/blindtest-spotify/static/css/main.d56e516d.css.map",
+    "main.9b4069b9.js.map": "/blindtest-spotify/static/js/main.9b4069b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56e516d.css",
+    "static/js/main.9b4069b9.js"
+  ]
+}
